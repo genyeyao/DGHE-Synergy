@@ -1,8 +1,16 @@
-# BAF-SynPred
+# DGHE-Synergy
 
-BAF-SynPred is a cell-conditioned, dual-view model for drug-combination
+DGHE-Synergy is a cell-conditioned, dual-granularity hypergraph model for drug-combination
 synergy prediction. This repository is the minimal reproducible release of the
 final CrossTalk-retained model used for the reported five-fold result.
+
+## Manuscript
+
+DGHE-Synergy: Dual-Granularity Hypergraph Enhancement and Complementary Fusion for Cell-Conditioned Drug Synergy Prediction
+
+The repository name `BAF-SynPred` and internal identifiers such as `bafsynpred`
+are retained for compatibility with existing commands, checkpoints, and release
+records. The model name used in the manuscript is DGHE-Synergy.
 
 ## Included
 
