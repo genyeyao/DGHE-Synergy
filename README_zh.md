@@ -4,8 +4,8 @@
 
 DGHE-Synergy: Dual-Granularity Hypergraph Enhancement and Complementary Fusion for Cell-Conditioned Drug Synergy Prediction
 
-论文模型名称统一为 DGHE-Synergy。为保持已有运行命令、权重和发布记录的兼容性，
-仓库名称 `BAF-SynPred` 及 `bafsynpred` 等内部标识保持不变。
+论文模型名称和仓库名称均统一为 DGHE-Synergy。为保持已有运行命令、权重和发布
+记录的兼容性，`bafsynpred` 等内部标识和历史 `BAF-SynPred` 发布标签保持不变。
 
 本目录只保留论文最终采用、保留 CrossTalk 的主模型，以及直接复现所需的
 源码、10,183 条样本数据、977 维细胞系特征、固定五折划分和五个最佳权重。
