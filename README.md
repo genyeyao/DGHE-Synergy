@@ -8,9 +8,9 @@ final CrossTalk-retained model used for the reported five-fold result.
 
 DGHE-Synergy: Dual-Granularity Hypergraph Enhancement and Complementary Fusion for Cell-Conditioned Drug Synergy Prediction
 
-The repository name `BAF-SynPred` and internal identifiers such as `bafsynpred`
-are retained for compatibility with existing commands, checkpoints, and release
-records. The model name used in the manuscript is DGHE-Synergy.
+The repository is named `DGHE-Synergy`. Internal identifiers such as
+`bafsynpred` and historical `BAF-SynPred` release labels are retained for
+compatibility with existing commands, checkpoints, and release records.
 
 ## Included
 
